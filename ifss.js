@@ -1,9 +1,9 @@
-var x= 6;
-if(x>10){
-    document.write(`x is greater`)
-} else{
-    document.write(`x is smaller`)
-}
+// var x= 6;
+// if(x>10){
+//     document.write(`x is greater`)
+// } else{
+//     document.write(`x is smaller`)
+// }
 
 /*
 // if else if 
@@ -19,7 +19,7 @@ if (per>=80 && per<=100){
 }else if(per<33);{
     document.write(`you are fail `)
 }*/
-let per = 55;
+let per = prompt(`Enter your Precentage`);
 
 if (per >= 80 && per <= 100) {
     document.write(`you are in merit `);
