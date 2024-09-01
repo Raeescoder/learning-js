@@ -37,3 +37,8 @@ let name = 34;
 let z;
 (name>50) ? z="ture":z="false";
 document.write(z);
+ // var uid = prompt("enter user id" , "user id");
+    // var pwd = prompt("enterpassword", "password");
+     
+    // var message=(uid="ali" && pwd =="1234") ? "welcome": "invaid user"
+    //alert(message); 
