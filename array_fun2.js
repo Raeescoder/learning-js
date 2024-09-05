@@ -74,7 +74,7 @@ nam.forEach(loop)
 
 function loop(value,index){
 
-    console.log()
+    console.log(index + `:` + value + "<br>")
 }
 
 
