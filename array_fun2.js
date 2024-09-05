@@ -23,8 +23,6 @@ console.log(Array.isArray(a)); // true
 
     }
 
-
-
 // --------------every---------------------------------
 var ages = [18,45,54];
 
