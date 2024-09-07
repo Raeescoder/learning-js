@@ -51,3 +51,12 @@ arr3[1]=`raees`
 document.write(arr3)
 delete arr3[3]
 document.write(arr3)
+
+// -------------constant value in array ---------------------
+const d = [10,30,40];
+console.log(d);
+ d[0]= 20;
+ d[1]=44;
+ d [2]=32
+ console.log(d); //with the help of index we can change value 
+ d =[40, 29,66]// Assignment is not again possible
